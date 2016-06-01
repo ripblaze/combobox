@@ -1,5 +1,6 @@
 <html>
 <head><title>Select Chain</title>
+<h2>Test</h2>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript">
 var htmlobjek;
